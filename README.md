@@ -15,6 +15,7 @@ Die Powerups werden zufällig bei der Zerstörung der Cubes generiert und fallen
 
 GitHub: http://www.github.com/ssecka/Arkanoid/tree/master
 --> Das Projekt liegt im master branch
+
 Youtube: https://www.youtube.com/watch?v=5aHyWfcKPFo
 
 
